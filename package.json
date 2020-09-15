@@ -1,0 +1,10 @@
+{
+	"name": "@philippd1/sepa-pdf-generator",
+	"version": "1.0.0",
+	"main": "cli.js",
+	"license": "MIT",
+	"dependencies": {
+		"async-prompt": "^1.0.1",
+		"pdf-lib": "^1.11.0"
+	}
+}
